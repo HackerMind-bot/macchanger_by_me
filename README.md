@@ -1,4 +1,4 @@
 # macchanger_by_me
 this script is under upgration
 
-try at your risk
+try at own your risk
